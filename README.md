@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddygero
 - 👀 I’m interested in ...software engineering and programming
-- 🌱 I’m currently learning ... hot to create a web portfolio
+- 🌱 I’m currently learning ... errthing
 - 💞️ I’m looking to collaborate on ... not yet sure
 - 📫 How to reach me ...dm
 
